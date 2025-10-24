@@ -1,4 +1,4 @@
-package com.tnsif.assignmentone;
+package com.tnsif.assignment1;
 
 public class Student {
 	Student() {
