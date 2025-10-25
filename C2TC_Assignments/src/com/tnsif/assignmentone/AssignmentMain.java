@@ -1,7 +1,7 @@
-package com.Sriranganathan.assignmentone;
+package com.tnsif.assignmentone;
 
-import com.Sriranganathan.assignmentone.employees.*;
-import com.Sriranganathan.assignmentone.utilities.*;
+import com.tnsif.assignmentone.employees.*;
+import com.tnsif.assignmentone.utilities.*;
 
 public class AssignmentMain {
     public static void main(String[] args) {

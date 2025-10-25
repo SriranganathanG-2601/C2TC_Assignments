@@ -1,4 +1,4 @@
-package com.tnsif.assignment1;
+package com.tnsif.assignmenttwo;
 import java.util.Scanner;
 public class Commission {
 	String name, address, phone;

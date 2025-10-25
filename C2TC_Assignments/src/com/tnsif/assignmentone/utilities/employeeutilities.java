@@ -1,5 +1,5 @@
-package com.Sriranganathan.assignmentone.utilities;
-import com.Sriranganathan.assignmentone.employees.*;
+package com.tnsif.assignmentone.utilities;
+import com.tnsif.assignmentone.employees.*;
 public class employeeutilities {
 
     public void giveRaise(employee emp, double amount) {
